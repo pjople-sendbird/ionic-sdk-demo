@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter.sendbird",
+	"appName": "test-sendbird",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
